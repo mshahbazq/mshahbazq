@@ -1,24 +1,77 @@
-<h1 align="center">Hey, there I'm Muhammad Shahbaz 👋</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mshahbazq&label=Profile%20views&color=0e75b6&style=flat" alt="mshahbazq" /> </p>
+### Hey there, I'm  Muhammad Shahbaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p>I've worked on 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.<br>With a rich coding experience along with great problem solving ability, I can help clients bring their ideas to product. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mshahbazq" alt="mshahbazq" /></a> </p>
+<div align="center">
+<p align="center">Let's connect!</p>
 
-- 🔭 I’m currently working on **Data Science**
+<a href="https://web.facebook.com/mshahbazq1">
+    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
+</a>
 
-- 🌱 I’m currently learning **Deep Learning**
+<a href="https://www.linkedin.com/in/mshahbazq/">
+    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+</a>
 
-- 💬 Ask me about **Python, Data Analysis.**
+<a href="https://twitter.com/mshahbazqT" >
+  <img width="32" height="32" src="https://static.fdtc.edu/_img/icon/social/twitter/Twitter_logo_blue.png" />
+</a>  
 
-- 📫 How to reach me **shahbiqureshi33@gmail.com**
+<a href="mailto:shahbiqureshi33@gmail.com">
+    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mshahbazq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mshahbazq/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mshahbazq&show_icons=true&locale=en&layout=compact" alt="mshahbazq" /></p>
+<!-- <a href="https://www.upwork.com/freelancers/~01d0bddc9504858477">
+    <img width="32" height="32" src="https://raw.githubusercontent.com/mshahbazq/mshahbazq/main/upwork.ico" />
+</a> -->
+</div>
+
+<br>
+
+### A Computer Science Masters' Student, Developer & Freelancer
+
+<!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
+
+#### Talking about my personal stuff:
+
+- 🙋‍♂️ Freelancer at Upwork
+- ⚡ Data Scraping/Data Cleansing
+- 💻 Web dev/Windows/Android Dev
+- 📑 CS Masters' Student at  University of Engineering and Technology, Peshawar.
+
+### My skills 🛠
+👉 Data Scraping (Python/bs4/Requests)<br>
+👉 Web Automation (Python/C#/Selenium)<br>
+👉 Android Apps (Java/XML)<br>
+👉 Windows desktop Apps (WPF/C#/XAML)<br>
+👉 Web Apps (Django, Flask)<br>
+<br>
+👉 Multithreaded code<br>
+👉 Output in JSON/CSV/Excel<br>
+👉 Clean and efficient<br>
+👉 Commented and prettified to help you understand<br>
+👉 Parsing data and APIs<br>
+👉 C++<br>
+<br>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+<br>
+<summary>📝 My GitHub Stats</summary>
+<br>
+
+![Muhammad Shahbaz's github stats](https://github-readme-stats.vercel.app/api?username=mshahbazq&theme=gotham&show_icons=true&include_all_commits=true&)
+<br>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshahbazq&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
+<br><br>
+Open Source Contributor from <b>Pakistan<b> 💚
+    <br><br>
+![](https://visitor-badge.glitch.me/badge?page_id=mshahbazq.mshahbazq)
+<br>

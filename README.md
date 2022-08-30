@@ -1,6 +1,7 @@
 
 ### Hey there, I'm  Muhammad Shahbaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p>I've worked on 10+ freelance projects. Some of them are uploaded here others were private so couldn't upload them publically.<br>With generous coding experience along with great problem-solving skill, I help clients to complete their work. I am an exclusive programmer and always deliver my projects on time and with all the quality assurance.</p>
+<!-- <p>I've worked on 10+ freelance projects. Some of them are uploaded here others were private so couldn't upload them publically.<br>With generous coding experience along with great problem-solving skill, I help clients to complete their work. I am an exclusive programmer and always deliver my projects on time and with all the quality assurance.</p> -->
+<p>Problem solver, developer, coder with background in multiple programming languages.</p>
 
 <div align="center">
 <p align="center">Let's connect!</p>
@@ -30,13 +31,13 @@
 
 <br>
 
-### A Computer Science Masters' Student, Developer & Freelancer
+### A Computer Science Masters' Student & Developer
 
 <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Freelancer at Upwork
+<!-- 🙋‍♂️ Freelancer at Upwork -->
 - ⚡ Data Scraping/Data Cleansing
 - 💻 Web dev/Windows/Android Dev
 - 📑 CS Masters' Student at  University of Engineering and Technology, Peshawar.

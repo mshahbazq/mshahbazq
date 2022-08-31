@@ -31,7 +31,7 @@
 
 <br>
 
-### A Computer Science Masters' Student & Developer
+### A Computer Science Graduate' Student & Developer
 
 <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" /> -->
 
@@ -39,14 +39,14 @@
 
 <!-- 🙋‍♂️ Freelancer at Upwork -->
 - ⚡ Data Scraping/Data Cleansing
-- 💻 Web dev/Windows/Android Dev
-- 📑 CS Masters' Student at  University of Engineering and Technology, Peshawar.
+- 💻 Web dev/Desktop/AI/ML/DS
+- 📑 CS Graduate
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests)<br>
 👉 Web Automation (Python/C#/Selenium)<br>
-👉 Android Apps (Java/XML)<br>
 👉 Windows desktop Apps (WPF/C#/XAML)<br>
+👉 API Developer (C/C++/PHP/JavaScript/Python)<br>
 👉 Web Apps (Django, Flask)<br>
 <br>
 👉 Multithreaded code<br>
